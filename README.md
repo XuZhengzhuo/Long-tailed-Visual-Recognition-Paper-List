@@ -46,13 +46,13 @@ Feel free to exchange idea and issue -.-
 - Libra R-CNN: Towards Balanced Learning for Object Detection
 - Large-Scale Long-Tailed Recognition in an Open World
 
-## others
+## Others
 - Focal Loss for Dense Object Detection
 - The iNaturalist Species Classification and Detection Dataset
 - LVIS: A Dataset for Large Vocabulary Instance Segmentation
 - Gradient Harmonized Single-Stage Detector
 
-## still on arxiv
+## Still on arxiv
 - Long-Tailed Recognition Using Class-Balanced Experts
 
 
