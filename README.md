@@ -35,6 +35,12 @@ Feel free to exchange idea and issue -.-
 - M2m: Imbalanced Classification via Major-to-minor Translation
 - Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective
 
+## ICCV2020
+Range Loss for Deep Face Recognition with Long-Tailed Training Data
+
+## CIKM2020
+Large Scale Long-tailed Product Recognition System at Alibaba
+
 ## ICLR 2020
 - DECOUPLING REPRESENTATION AND CLASSIFIER FOR LONG-TAILED RECOGNITION
 
@@ -51,7 +57,7 @@ Feel free to exchange idea and issue -.-
 - The iNaturalist Species Classification and Detection Dataset
 - LVIS: A Dataset for Large Vocabulary Instance Segmentation
 - Gradient Harmonized Single-Stage Detector
-
+- Learning to Model the Tail NIPS2017
 ## Still on arxiv
 - Long-Tailed Recognition Using Class-Balanced Experts
 
