@@ -21,6 +21,8 @@ Feel free to exchange idea and issue -.-
 - Learning From Multiple Experts- Self-paced Knowledge Distillation for Long-tailed Classification
 - Solving Long-tailed Recognition with Deep Realistic Taxonomic Classifier
 - The Devil is in Classification- A Simple Framework for Long-tail Instance Segmentation
+- Remix: Rebalanced Mixup
+
 
 ## CVPR 2020
 - BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition
