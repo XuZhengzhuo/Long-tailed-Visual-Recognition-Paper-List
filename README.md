@@ -1,7 +1,13 @@
 # Long-Tailed-Visual-Recognition-Paper-List
 
 Sort by conference.
-Feel free to exchange idea and issue -.-
+
+Feel free to exchange ideas and issues -.-
+
+## To Do
+- EXTREME CLASSIFICATION VIA ADVERSARIAL SOFTMAX APPROXIMATION
+- Improving Negative Sampling for Word Representation using Self-embedded Features
+- Striking the Right Balance with Uncertainty
 
 ## AAAI 2021
 - Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks
@@ -60,6 +66,7 @@ Large Scale Long-tailed Product Recognition System at Alibaba
 - LVIS: A Dataset for Large Vocabulary Instance Segmentation
 - Gradient Harmonized Single-Stage Detector
 - Learning to Model the Tail NIPS2017
+
 ## Still on arxiv
 - Long-Tailed Recognition Using Class-Balanced Experts
 
