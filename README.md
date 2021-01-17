@@ -20,6 +20,7 @@ Feel free to exchange ideas and issues -.-
 - Balanced Meta-Softmax for Long-Tailed Visual Recognition
 - Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect
 - Rethinking the Value of Labels for Improving Class-Imbalanced Learning
+- Identifying and Compensating for Feature Deviation in Imbalanced Deep Learning
 
 ## ECCV 2020
 - Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets
