@@ -7,7 +7,7 @@ Feel free to exchange ideas and issues -.-
 ## To Do
 - EXTREME CLASSIFICATION VIA ADVERSARIAL SOFTMAX APPROXIMATION
 - Improving Negative Sampling for Word Representation using Self-embedded Features
-- Striking the Right Balance with Uncertainty
+- Regularizing Deep Networks with Semantic -Data Augmentation
 
 ## AAAI 2021
 - Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks
@@ -60,6 +60,7 @@ Large Scale Long-tailed Product Recognition System at Alibaba
 - Class-Balanced Loss Based on Effective Number of Samples
 - Libra R-CNN: Towards Balanced Learning for Object Detection
 - Large-Scale Long-Tailed Recognition in an Open World
+- Striking the Right Balance with Uncertainty
 
 ## Others
 - Focal Loss for Dense Object Detection
