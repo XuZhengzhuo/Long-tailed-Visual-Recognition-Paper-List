@@ -45,10 +45,10 @@ Feel free to exchange ideas and issues -.-
 - Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective
 
 ## ICCV2020
-Range Loss for Deep Face Recognition with Long-Tailed Training Data
+- Range Loss for Deep Face Recognition with Long-Tailed Training Data
 
 ## CIKM2020
-Large Scale Long-tailed Product Recognition System at Alibaba
+- Large Scale Long-tailed Product Recognition System at Alibaba
 
 ## ICLR 2020
 - DECOUPLING REPRESENTATION AND CLASSIFIER FOR LONG-TAILED RECOGNITION
