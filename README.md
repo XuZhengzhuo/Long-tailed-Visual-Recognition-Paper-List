@@ -7,10 +7,11 @@ Feel free to exchange ideas and issues -.-
 ## To Do
 - EXTREME CLASSIFICATION VIA ADVERSARIAL SOFTMAX APPROXIMATION
 - Improving Negative Sampling for Word Representation using Self-embedded Features
-- Regularizing Deep Networks with Semantic -Data Augmentation
+- Regularizing Deep Networks with Semantic-Data Augmentation
 
 ## AAAI 2021
 - Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks
+- From Generalized zero-shot learning to long-tail with class descriptors
 
 ## ICLR 2021
 - Long-Tail Learning via Logit Adjustment
