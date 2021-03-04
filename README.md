@@ -5,13 +5,18 @@ Sort by conference.
 Feel free to exchange ideas and issues -.-
 
 ## To Do
-- EXTREME CLASSIFICATION VIA ADVERSARIAL SOFTMAX APPROXIMATION
-- Improving Negative Sampling for Word Representation using Self-embedded Features
+- 
+
+
+## TPAMI
 - Regularizing Deep Networks with Semantic-Data Augmentation
+
+## WACV2021
+- From Generalized zero-shot learning to long-tail with class descriptors
 
 ## AAAI 2021
 - Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks
-- From Generalized zero-shot learning to long-tail with class descriptors
+- ResLT: Residual Learning for Long-tailed Recognition
 
 ## ICLR 2021
 - Long-Tail Learning via Logit Adjustment
@@ -53,6 +58,7 @@ Feel free to exchange ideas and issues -.-
 
 ## ICLR 2020
 - DECOUPLING REPRESENTATION AND CLASSIFIER FOR LONG-TAILED RECOGNITION
+- EXTREME CLASSIFICATION VIA ADVERSARIAL SOFTMAX APPROXIMATION
 
 ## NIPS 2019
 - Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss
@@ -62,6 +68,7 @@ Feel free to exchange ideas and issues -.-
 - Libra R-CNN: Towards Balanced Learning for Object Detection
 - Large-Scale Long-Tailed Recognition in an Open World
 - Striking the Right Balance with Uncertainty
+- AdaptiveFace: Adaptive Margin and Sampling for Face Recognition
 
 ## Others
 - Focal Loss for Dense Object Detection
@@ -69,9 +76,10 @@ Feel free to exchange ideas and issues -.-
 - LVIS: A Dataset for Large Vocabulary Instance Segmentation
 - Gradient Harmonized Single-Stage Detector
 - Learning to Model the Tail NIPS2017
-
+- Improving Negative Sampling for Word Representation using Self-embedded Features
+-
 ## Still on arxiv
 - Long-Tailed Recognition Using Class-Balanced Experts
-
+- Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
 
 Keep following ...
