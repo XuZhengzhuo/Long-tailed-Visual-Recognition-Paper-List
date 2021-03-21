@@ -4,9 +4,6 @@ Sort by conference.
 
 Feel free to exchange ideas and issues -.-
 
-## To Do
-- 
-
 
 ## TPAMI
 - Regularizing Deep Networks with Semantic-Data Augmentation
