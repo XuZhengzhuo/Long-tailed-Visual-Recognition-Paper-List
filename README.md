@@ -4,6 +4,13 @@ Sort by conference.
 
 Feel free to exchange ideas and issues -.-
 
+## CVPR 2021
+- MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition
+- Improving Calibration for Long-Tailed Recognition
+- Disentangling Label Distribution for Long-tailed Visual Recognition
+- PML: Progressive Margin Loss for Long-tailed Age Classification
+- Distribution Alignment: A Unified Framework for Long-tail Visual Recognition
+- Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification
 
 ## TPAMI
 - Regularizing Deep Networks with Semantic-Data Augmentation
