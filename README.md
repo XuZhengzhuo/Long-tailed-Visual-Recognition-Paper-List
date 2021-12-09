@@ -3,6 +3,7 @@
 - A Simple Long-Tailed Recognition Baseline via Vision-Language Model
 - VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition
 - Targeted Supervised Contrastive Learning for Long-Tailed Recognition
+- Deep Long-Tailed Learning: A Survey
 - Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE)
 - Long-Tailed Recognition Using Class-Balanced Experts
 - Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
@@ -10,7 +11,7 @@
 ## NeurIPS 2021
 - Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling
 - Topology-Imbalance Learning for Semi-Supervised Node Classification
-- Towards calibrated model for long-tailed visual recognition from prior perspective
+- Towards Calibrated Model for Long-tailed Visual Recognition from Prior Perspective
 
 ## ICCV 2021
 - Influence-Balanced Loss for Imbalanced Visual Classification (IB loss)
