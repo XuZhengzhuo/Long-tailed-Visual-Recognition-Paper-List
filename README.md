@@ -1,13 +1,16 @@
 # Long-Tailed-Visual-Recognition-Paper-List
 
-Sort by conference.
-
-Feel free to exchange ideas and issues -.-
+- A Simple Long-Tailed Recognition Baseline via Vision-Language Model
+- VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition
+- Targeted Supervised Contrastive Learning for Long-Tailed Recognition
+- Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE)
+- Long-Tailed Recognition Using Class-Balanced Experts
+- Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
 
 ## CVPR 2021
 - MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition
 - Improving Calibration for Long-Tailed Recognition
-- Disentangling Label Distribution for Long-tailed Visual Recognition
+- Disentangling Label Distribution for Long-tailed Visual Recognition (LDAE)
 - PML: Progressive Margin Loss for Long-tailed Age Classification
 - Distribution Alignment: A Unified Framework for Long-tail Visual Recognition
 - Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification
@@ -81,9 +84,7 @@ Feel free to exchange ideas and issues -.-
 - Gradient Harmonized Single-Stage Detector
 - Learning to Model the Tail NIPS2017
 - Improving Negative Sampling for Word Representation using Self-embedded Features
--
-## Still on arxiv
-- Long-Tailed Recognition Using Class-Balanced Experts
-- Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
+
+
 
 Keep following ...
