@@ -7,6 +7,16 @@
 - Long-Tailed Recognition Using Class-Balanced Experts
 - Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
 
+## NeurIPS 2021
+- Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling
+- Topology-Imbalance Learning for Semi-Supervised Node Classification
+- Towards calibrated model for long-tailed visual recognition from prior perspective
+
+## ICCV 2021
+- Influence-Balanced Loss for Imbalanced Visual Classification (IB loss)
+- Parametric Contrastive Learning
+
+
 ## CVPR 2021
 - MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition
 - Improving Calibration for Long-Tailed Recognition
