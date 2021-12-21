@@ -20,7 +20,7 @@
 
 ## CVPR 2021
 - MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition
-- Improving Calibration for Long-Tailed Recognition
+- Improving Calibration for Long-Tailed Recognition (MASLIS)
 - Disentangling Label Distribution for Long-tailed Visual Recognition (LDAE)
 - PML: Progressive Margin Loss for Long-tailed Age Classification
 - Distribution Alignment: A Unified Framework for Long-tail Visual Recognition
