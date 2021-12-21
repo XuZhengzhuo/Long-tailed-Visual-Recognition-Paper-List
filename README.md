@@ -15,7 +15,7 @@
 
 ## ICCV 2021
 - Influence-Balanced Loss for Imbalanced Visual Classification (IB loss)
-- Parametric Contrastive Learning
+- Parametric Contrastive Learning (PaCo)
 
 
 ## CVPR 2021
