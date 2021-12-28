@@ -1,10 +1,18 @@
 # Long-Tailed-Visual-Recognition-Paper-List
 
-- A Simple Long-Tailed Recognition Baseline via Vision-Language Model
-- VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition
+
+## Arxiv
+**\***：indicates high perferance. 
+**\^**：indicates weird perferance. 
+- You Only Need End-to-End Training for Long-Tailed Recognition **\^**
+- Margin Calibration for Long-Tailed Visual Recognition 
+- Pure Noise to the Rescue of Insufficient Data: Improving Imbalanced Classification by Training on Random Noise Images **\^**
+- Long-tail Recognition via Compositional Knowledge Transfer
+- A Simple Long-Tailed Recognition Baseline via Vision-Language Model **\***
+- VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition **\***
 - Targeted Supervised Contrastive Learning for Long-Tailed Recognition
 - Deep Long-Tailed Learning: A Survey
-- Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE)
+- Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE) **\***
 - Long-Tailed Recognition Using Class-Balanced Experts
 - Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
 
@@ -95,7 +103,3 @@
 - Gradient Harmonized Single-Stage Detector
 - Learning to Model the Tail NIPS2017
 - Improving Negative Sampling for Word Representation using Self-embedded Features
-
-
-
-Keep following ...
