@@ -18,6 +18,9 @@
 - Long-Tailed Recognition Using Class-Balanced Experts
 - Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
 
+## AAAI2022
+- Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification
+
 ## NeurIPS 2021
 - Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling
 - Topology-Imbalance Learning for Semi-Supervised Node Classification
