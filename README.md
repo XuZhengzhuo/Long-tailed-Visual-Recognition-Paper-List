@@ -1,10 +1,12 @@
 # Long-Tailed-Visual-Recognition-Paper-List
 
-
-## Arxiv
 **\***：indicates high perferance. 
 
 **\^**：indicates weird perferance. 
+
+**TA**: indicates Test-Agnostic. 
+
+## Arxiv
 
 - You Only Need End-to-End Training for Long-Tailed Recognition **\^**
 - Margin Calibration for Long-Tailed Visual Recognition 
@@ -14,12 +16,12 @@
 - VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition **\***
 - Targeted Supervised Contrastive Learning for Long-Tailed Recognition
 - Deep Long-Tailed Learning: A Survey
-- Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE) **\***
+- Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE) **\***  (**TA**)
 - Long-Tailed Recognition Using Class-Balanced Experts
 - Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
 
 ## AAAI2022
-- Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification
+- Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification (**TA**)
 
 ## NeurIPS 2021
 - Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling
