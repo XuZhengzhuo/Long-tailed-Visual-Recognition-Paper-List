@@ -16,7 +16,6 @@
 - VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition **\***
 - Targeted Supervised Contrastive Learning for Long-Tailed Recognition
 - Deep Long-Tailed Learning: A Survey
-- Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE) **\***  (**TA**)
 - Long-Tailed Recognition Using Class-Balanced Experts
 - Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
 
@@ -31,7 +30,7 @@
 ## ICCV 2021
 - Influence-Balanced Loss for Imbalanced Visual Classification (IB loss)
 - Parametric Contrastive Learning (PaCo)
-
+- Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE) **\***  (**TA**) [github](https://github.com/Vanint/TADE-AgnosticLT)
 
 ## CVPR 2021
 - MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition
