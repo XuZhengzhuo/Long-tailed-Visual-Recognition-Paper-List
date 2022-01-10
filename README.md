@@ -20,24 +20,24 @@
 - Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
 
 ## AAAI2022
-- Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification (**TA**)
+- Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification (**TA**) [[code]](https://github.com/BeierZhu/xERM)
 
 ## NeurIPS 2021
 - Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling
 - Topology-Imbalance Learning for Semi-Supervised Node Classification
-- Towards Calibrated Model for Long-tailed Visual Recognition from Prior Perspective
+- Towards Calibrated Model for Long-tailed Visual Recognition from Prior Perspective [[code]](https://github.com/XuZhengzhuo/Prior-LT)
 
 ## ICCV 2021
 - Influence-Balanced Loss for Imbalanced Visual Classification (IB loss)
-- Parametric Contrastive Learning (PaCo)
-- Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE) **\***  (**TA**) [github](https://github.com/Vanint/TADE-AgnosticLT)
+- Parametric Contrastive Learning (PaCo) [[code]](https://github.com/dvlab-research/Parametric-Contrastive-Learning)
+- Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE) **\***  (**TA**) [[code]](https://github.com/Vanint/TADE-AgnosticLT)
 
 ## CVPR 2021
-- MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition
-- Improving Calibration for Long-Tailed Recognition (MASLIS)
-- Disentangling Label Distribution for Long-tailed Visual Recognition (LDAE)
+- MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition [[code]](https://github.com/BIT-DA/MetaSAug)
+- Improving Calibration for Long-Tailed Recognition (MASLIS) [[code]](https://github.com/dvlab-research/MiSLAS)
+- Disentangling Label Distribution for Long-tailed Visual Recognition (LDAE) [[code]](https://github.com/hyperconnect/LADE)
 - PML: Progressive Margin Loss for Long-tailed Age Classification
-- Distribution Alignment: A Unified Framework for Long-tail Visual Recognition
+- Distribution Alignment: A Unified Framework for Long-tail Visual Recognition [[code]](https://github.com/Megvii-BaseDetection/DisAlign)
 - Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification
 
 ## TPAMI
@@ -47,17 +47,17 @@
 - From Generalized zero-shot learning to long-tail with class descriptors
 
 ## AAAI 2021
-- Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks
+- Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks [[code]](https://github.com/zhangyongshun/BagofTricks-LT)
 - ResLT: Residual Learning for Long-tailed Recognition
 
 ## ICLR 2021
-- Long-Tail Learning via Logit Adjustment
+- Long-Tail Learning via Logit Adjustment [[code]](https://github.com/google-research/google-research/tree/master/logit_adjustment)
 - Natural World Distribution via Adaptive Confusion Energy Regularization
 
 ## NIPS 2020
-- Balanced Meta-Softmax for Long-Tailed Visual Recognition
-- Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect
-- Rethinking the Value of Labels for Improving Class-Imbalanced Learning
+- Balanced Meta-Softmax for Long-Tailed Visual Recognition [[code]](https://github.com/jiawei-ren/BalancedMetaSoftmax)
+- Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect [[code]](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch)
+- Rethinking the Value of Labels for Improving Class-Imbalanced Learning [[code]](https://github.com/YyzHarry/imbalanced-semi-self)
 - Identifying and Compensating for Feature Deviation in Imbalanced Deep Learning
 
 ## ECCV 2020
