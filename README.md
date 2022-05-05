@@ -33,6 +33,8 @@
 - Parametric Contrastive Learning (PaCo) [[code]](https://github.com/dvlab-research/Parametric-Contrastive-Learning)
 - Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE) **\***  (**TA**) [[code]](https://github.com/Vanint/TADE-AgnosticLT)
 - Distilling Virtual Examples for Long-tailed Recognition
+- VideoLT: Large-scale Long-tailed Video Recognition
+
 
 ## CVPR 2021
 - MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition [[code]](https://github.com/BIT-DA/MetaSAug)
