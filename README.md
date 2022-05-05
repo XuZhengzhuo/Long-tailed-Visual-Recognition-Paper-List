@@ -1,13 +1,9 @@
 # Long-Tailed-Visual-Recognition-Paper-List
 
-**\***：indicates high perferance. 
+[[ImageNet-LT Paper with Code]](https://paperswithcode.com/sota/long-tail-learning-on-imagenet-lt?p=parametric-contrastive-learning)
 
-**\^**：indicates weird perferance. 
 
-**TA**: indicates Test-Agnostic. 
-
-## Arxiv
-
+## Arxiv and others
 - You Only Need End-to-End Training for Long-Tailed Recognition **\^**
 - Margin Calibration for Long-Tailed Visual Recognition 
 - Pure Noise to the Rescue of Insufficient Data: Improving Imbalanced Classification by Training on Random Noise Images **\^**
@@ -18,6 +14,11 @@
 - Deep Long-Tailed Learning: A Survey
 - Long-Tailed Recognition Using Class-Balanced Experts
 - Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
+- Class-Balanced Distillation for Long-Tailed Visual Recognition
+
+## CVPR2022
+- Nested Collaborative Learning for Long-Tailed Visual Recognition [[code]](https://github.com/Bazinga699/NCL)
+- BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning **[[code]](https://github.com/zhihou7/BatchFormer)**
 
 ## AAAI2022
 - Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification (**TA**) [[code]](https://github.com/BeierZhu/xERM)
@@ -31,6 +32,7 @@
 - Influence-Balanced Loss for Imbalanced Visual Classification (IB loss)
 - Parametric Contrastive Learning (PaCo) [[code]](https://github.com/dvlab-research/Parametric-Contrastive-Learning)
 - Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE) **\***  (**TA**) [[code]](https://github.com/Vanint/TADE-AgnosticLT)
+- Distilling Virtual Examples for Long-tailed Recognition
 
 ## CVPR 2021
 - MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition [[code]](https://github.com/BIT-DA/MetaSAug)
@@ -39,6 +41,7 @@
 - PML: Progressive Margin Loss for Long-tailed Age Classification
 - Distribution Alignment: A Unified Framework for Long-tail Visual Recognition [[code]](https://github.com/Megvii-BaseDetection/DisAlign)
 - Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification
+- Distributional Robustness Loss for Long-tail Learning [[code]](https://github.com/dvirsamuel/DRO-LT)
 
 ## TPAMI
 - Regularizing Deep Networks with Semantic-Data Augmentation
@@ -53,6 +56,7 @@
 ## ICLR 2021
 - Long-Tail Learning via Logit Adjustment [[code]](https://github.com/google-research/google-research/tree/master/logit_adjustment)
 - Natural World Distribution via Adaptive Confusion Energy Regularization
+- EXPLORING BALANCED FEATURE SPACES FOR REPRESENTATION LEARNING
 
 ## NIPS 2020
 - Balanced Meta-Softmax for Long-Tailed Visual Recognition [[code]](https://github.com/jiawei-ren/BalancedMetaSoftmax)
@@ -107,5 +111,12 @@
 - The iNaturalist Species Classification and Detection Dataset
 - LVIS: A Dataset for Large Vocabulary Instance Segmentation
 - Gradient Harmonized Single-Stage Detector
-- Learning to Model the Tail NIPS2017
+- Learning to Model the Tail
 - Improving Negative Sampling for Word Representation using Self-embedded Features
+
+
+**\***：indicates high perferance. 
+
+**\^**：indicates weird perferance. 
+
+**TA**: indicates Test-Agnostic. 
