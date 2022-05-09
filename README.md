@@ -36,6 +36,7 @@
 - [√] [*] Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision (TADE) **\***  (**TA**) [[code]](https://github.com/Vanint/TADE-AgnosticLT)
 - [-] Distilling Virtual Examples for Long-tailed Recognition
 - [-] VideoLT: Large-scale Long-tailed Video Recognition
+- [-] Ace: Ally complementary experts for solving long-tailed recognition in one-shot.
 
 ## CVPR 2021
 - [√] MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition [[code]](https://github.com/BIT-DA/MetaSAug)
