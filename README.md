@@ -23,6 +23,7 @@
 
 ## AAAI2022
 - [√] Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification (**TA**) [[code]](https://github.com/BeierZhu/xERM)
+- [√] Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory
 
 ## NeurIPS 2021
 - [-] Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling
