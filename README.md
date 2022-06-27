@@ -13,23 +13,25 @@
 - [-] VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition **\***
 - [-] Targeted Supervised Contrastive Learning for Long-Tailed Recognition
 - [√] Deep Long-Tailed Learning: A Survey
-- [-] Long-Tailed Recognition Using Class-Balanced Experts
-- [-] Apportioned Margin Approach for Cost Sensitive Large Margin Classifiers
-- [-] Class-Balanced Distillation for Long-Tailed Visual Recognition
 
 ## CVPR2022
 - [-] Nested Collaborative Learning for Long-Tailed Visual Recognition [[code]](https://github.com/Bazinga699/NCL)
 - [-] BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning **[[code]](https://github.com/zhihou7/BatchFormer)**
 - [√] [*] Long-Tailed Recognition via Weight Balancing **[[code]](https://github.com/ShadeAlsha/LTR-weight-balancing)**
+- [-] Balanced MSE for Imbalanced Visual Regression
 
 ## AAAI2022
 - [√] Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification (**TA**) [[code]](https://github.com/BeierZhu/xERM)
 - [-] Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory
 
+# BMVC2021
+- [-] Class-Balanced Distillation for Long-Tailed Visual Recognition
+
 ## NeurIPS 2021
 - [-] Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling
 - [-] Topology-Imbalance Learning for Semi-Supervised Node Classification
 - [√] [*] Towards Calibrated Model for Long-tailed Visual Recognition from Prior Perspective [[code]](https://github.com/XuZhengzhuo/Prior-LT)
+- [-] ABC: Auxiliary Balanced Classifier for Class-imbalanced Semi-supervised Learning
 
 ## ICCV 2021
 - [√] Influence-Balanced Loss for Imbalanced Visual Classification (IB loss)
@@ -77,6 +79,8 @@
 - [√] The Devil is in Classification- A Simple Framework for Long-tail Instance Segmentation
 - [√] Remix: Rebalanced Mixup
 
+## GCPR 2020
+- [√] Long-Tailed Recognition Using Class-Balanced Experts
 
 ## CVPR 2020
 - [√] BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition
