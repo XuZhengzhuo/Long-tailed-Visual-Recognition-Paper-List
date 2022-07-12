@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="vEW5EqL9PGXS_EW0ROWk" name="第 1 页">
+        <mxGraphModel dx="1275" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Student" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Teacher 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="490" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Teacher 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="570" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Teacher 3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="650" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="1. different random seed&lt;br&gt;2. strong data augmentation" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-50" y="600" width="160" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
