@@ -8,13 +8,13 @@
 - [-] You Only Need End-to-End Training for Long-Tailed Recognition **\^**
 - [-] Margin Calibration for Long-Tailed Visual Recognition 
 - [-] Pure Noise to the Rescue of Insufficient Data: Improving Imbalanced Classification by Training on Random Noise Images **\^**
-- [-] Long-tail Recognition via Compositional Knowledge Transfer
 - [-] A Simple Long-Tailed Recognition Baseline via Vision-Language Model **\***
 - [-] VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition **\***
-- [-] Targeted Supervised Contrastive Learning for Long-Tailed Recognition
 - [√] Deep Long-Tailed Learning: A Survey
 
 ## CVPR2022
+- [-] Long-tail Recognition via Compositional Knowledge Transfer
+- [-] Targeted Supervised Contrastive Learning for Long-Tailed Recognition
 - [-] Nested Collaborative Learning for Long-Tailed Visual Recognition [[code]](https://github.com/Bazinga699/NCL)
 - [-] BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning **[[code]](https://github.com/zhihou7/BatchFormer)**
 - [√] [*] Long-Tailed Recognition via Weight Balancing **[[code]](https://github.com/ShadeAlsha/LTR-weight-balancing)**
