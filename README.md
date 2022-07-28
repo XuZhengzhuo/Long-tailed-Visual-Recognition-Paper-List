@@ -19,6 +19,12 @@
 - [-] BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning **[[code]](https://github.com/zhihou7/BatchFormer)**
 - [√] [*] Long-Tailed Recognition via Weight Balancing **[[code]](https://github.com/ShadeAlsha/LTR-weight-balancing)**
 - [-] Balanced MSE for Imbalanced Visual Regression
+- [√] Balanced Contrastive Learning for Long-Tailed Visual Recognition
+- [√] Long-tail Recognition via Compositional Knowledge Transfer
+- [-] The Majority Can Help the Minority: Context-rich Minority Oversampling for Long-tailed Classification
+- [-] Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment
+- [-] A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty
+- [-] Retrieval Augmented Classification for Long-Tail Visual Recognition
 
 ## AAAI2022
 - [√] Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification (**TA**) [[code]](https://github.com/BeierZhu/xERM)
